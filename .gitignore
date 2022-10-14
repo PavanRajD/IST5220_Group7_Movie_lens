@@ -1,4 +1,7 @@
 # MacOS desktop services store
 .DS_Store
-DataSets/
-DataSets.zip
+DataSets/genome-scores.csv
+DataSets/genome-tags.csv
+DataSets/links.csv
+DataSets/ratings.csv
+DataSets/tags.csv
